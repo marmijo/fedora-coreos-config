@@ -1,0 +1,12 @@
+[fedora-archive]
+name=Fedora $releasever - $basearch
+baseurl=https://dl.fedoraproject.org/pub/archive/fedora/linux/releases/$releasever/Everything/$basearch/os/
+        https://dl.fedoraproject.org/pub/archive/fedora-secondary/releases/$releasever/Everything/$basearch/os/
+#metalink=https://mirrors.fedoraproject.org/metalink?repo=fedora-$releasever&arch=$basearch
+enabled=1
+#metadata_expire=7d
+repo_gpgcheck=0
+type=rpm
+gpgcheck=1
+gpgkey=file:///usr/share/distribution-gpg-keys/fedora/RPM-GPG-KEY-fedora-$releasever-primary
+skip_if_unavailable=False
