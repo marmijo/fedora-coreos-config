@@ -385,7 +385,7 @@
       }
     },
     "crypto-policies": {
-      "evra": "20241010-1.git8baf557.fc41.noarch",
+      "evra": "20241029-1.git8baf557.fc41.noarch",
       "metadata": {
         "sourcerpm": "crypto-policies"
       }
@@ -2606,10 +2606,10 @@
         "generated": "2024-10-24T13:55:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2024-10-30T17:56:59Z"
+        "generated": "2024-11-01T16:13:43Z"
       },
       "fedora-updates": {
-        "generated": "2024-10-31T01:26:17Z"
+        "generated": "2024-11-01T03:34:53Z"
       }
     }
   }

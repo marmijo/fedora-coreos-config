@@ -391,7 +391,7 @@
       }
     },
     "crypto-policies": {
-      "evra": "20241010-1.git8baf557.fc41.noarch",
+      "evra": "20241029-1.git8baf557.fc41.noarch",
       "metadata": {
         "sourcerpm": "crypto-policies"
       }
@@ -2551,7 +2551,7 @@
       }
     },
     "wasmedge-rt": {
-      "evra": "0.14.0-3.fc41.x86_64",
+      "evra": "0.14.1-1.fc41.x86_64",
       "metadata": {
         "sourcerpm": "wasmedge"
       }
@@ -2636,10 +2636,10 @@
         "generated": "2024-10-24T13:55:59Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2024-10-30T17:59:25Z"
+        "generated": "2024-11-01T16:16:01Z"
       },
       "fedora-updates": {
-        "generated": "2024-10-31T01:26:19Z"
+        "generated": "2024-11-01T03:34:55Z"
       }
     }
   }
