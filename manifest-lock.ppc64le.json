@@ -379,7 +379,7 @@
       }
     },
     "crun": {
-      "evra": "1.18-1.fc41.ppc64le",
+      "evra": "1.18.1-1.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "crun"
       }
@@ -757,25 +757,25 @@
       }
     },
     "glibc": {
-      "evra": "2.40-3.fc41.ppc64le",
+      "evra": "2.40-9.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "glibc"
       }
     },
     "glibc-common": {
-      "evra": "2.40-3.fc41.ppc64le",
+      "evra": "2.40-9.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "glibc"
       }
     },
     "glibc-gconv-extra": {
-      "evra": "2.40-3.fc41.ppc64le",
+      "evra": "2.40-9.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "glibc"
       }
     },
     "glibc-minimal-langpack": {
-      "evra": "2.40-3.fc41.ppc64le",
+      "evra": "2.40-9.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "glibc"
       }
@@ -1081,7 +1081,7 @@
       }
     },
     "krb5-libs": {
-      "evra": "1.21.3-2.fc41.ppc64le",
+      "evra": "1.21.3-3.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "krb5"
       }
@@ -1429,13 +1429,13 @@
       }
     },
     "libnl3": {
-      "evra": "3.10.0-1.fc41.ppc64le",
+      "evra": "3.11.0-1.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "libnl3"
       }
     },
     "libnl3-cli": {
-      "evra": "3.10.0-1.fc41.ppc64le",
+      "evra": "3.11.0-1.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "libnl3"
       }
@@ -1657,7 +1657,7 @@
       }
     },
     "libusb1": {
-      "evra": "1.0.27-3.fc41.ppc64le",
+      "evra": "1.0.27-4.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "libusb1"
       }
@@ -2017,13 +2017,13 @@
       }
     },
     "passt": {
-      "evra": "0^20240906.g6b38f07-1.fc41.ppc64le",
+      "evra": "0^20241030.gee7d0b6-1.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "passt"
       }
     },
     "passt-selinux": {
-      "evra": "0^20240906.g6b38f07-1.fc41.noarch",
+      "evra": "0^20241030.gee7d0b6-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "passt"
       }
@@ -2089,13 +2089,13 @@
       }
     },
     "polkit": {
-      "evra": "125-1.fc41.ppc64le",
+      "evra": "125-1.fc41.1.ppc64le",
       "metadata": {
         "sourcerpm": "polkit"
       }
     },
     "polkit-libs": {
-      "evra": "125-1.fc41.ppc64le",
+      "evra": "125-1.fc41.1.ppc64le",
       "metadata": {
         "sourcerpm": "polkit"
       }
@@ -2600,16 +2600,16 @@
     }
   },
   "metadata": {
-    "generated": "2024-11-01T00:00:00Z",
+    "generated": "2024-11-02T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2024-11-01T16:13:43Z"
+        "generated": "2024-11-01T23:50:13Z"
       },
       "fedora-updates": {
-        "generated": "2024-11-01T03:34:53Z"
+        "generated": "2024-11-02T02:19:50Z"
       }
     }
   }
