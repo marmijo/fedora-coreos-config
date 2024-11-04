@@ -1171,7 +1171,7 @@
       }
     },
     "libbpf": {
-      "evra": "2:1.4.6-1.fc41.x86_64",
+      "evra": "2:1.4.7-1.fc41.x86_64",
       "metadata": {
         "sourcerpm": "libbpf"
       }
@@ -2630,7 +2630,7 @@
     }
   },
   "metadata": {
-    "generated": "2024-11-03T00:00:00Z",
+    "generated": "2024-11-04T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:59Z"
@@ -2639,7 +2639,7 @@
         "generated": "2024-11-02T23:33:42Z"
       },
       "fedora-updates": {
-        "generated": "2024-11-03T01:55:35Z"
+        "generated": "2024-11-04T04:19:21Z"
       }
     }
   }
