@@ -37,7 +37,7 @@
       }
     },
     "aardvark-dns": {
-      "evra": "2:1.12.2-2.fc41.ppc64le",
+      "evra": "2:1.13.0-1.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "aardvark-dns"
       }
@@ -589,19 +589,19 @@
       }
     },
     "fedora-release-common": {
-      "evra": "41-26.noarch",
+      "evra": "41-27.noarch",
       "metadata": {
         "sourcerpm": "fedora-release"
       }
     },
     "fedora-release-coreos": {
-      "evra": "41-26.noarch",
+      "evra": "41-27.noarch",
       "metadata": {
         "sourcerpm": "fedora-release"
       }
     },
     "fedora-release-identity-coreos": {
-      "evra": "41-26.noarch",
+      "evra": "41-27.noarch",
       "metadata": {
         "sourcerpm": "fedora-release"
       }
@@ -1855,7 +1855,7 @@
       }
     },
     "netavark": {
-      "evra": "2:1.12.2-1.fc41.ppc64le",
+      "evra": "2:1.13.0-1.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "netavark"
       }
@@ -2600,7 +2600,7 @@
     }
   },
   "metadata": {
-    "generated": "2024-11-05T00:00:00Z",
+    "generated": "2024-11-06T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:58Z"
@@ -2609,7 +2609,7 @@
         "generated": "2024-11-05T18:54:03Z"
       },
       "fedora-updates": {
-        "generated": "2024-11-05T04:34:35Z"
+        "generated": "2024-11-06T03:44:44Z"
       }
     }
   }
