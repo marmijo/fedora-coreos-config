@@ -37,7 +37,7 @@
       }
     },
     "aardvark-dns": {
-      "evra": "2:1.13.0-1.fc41.ppc64le",
+      "evra": "2:1.13.1-1.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "aardvark-dns"
       }
@@ -583,7 +583,7 @@
       }
     },
     "expat": {
-      "evra": "2.6.3-1.fc41.ppc64le",
+      "evra": "2.6.4-1.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "expat"
       }
@@ -1027,25 +1027,25 @@
       }
     },
     "kernel": {
-      "evra": "6.11.6-300.fc41.ppc64le",
+      "evra": "6.11.7-300.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-core": {
-      "evra": "6.11.6-300.fc41.ppc64le",
+      "evra": "6.11.7-300.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules": {
-      "evra": "6.11.6-300.fc41.ppc64le",
+      "evra": "6.11.7-300.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules-core": {
-      "evra": "6.11.6-300.fc41.ppc64le",
+      "evra": "6.11.7-300.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "kernel"
       }
@@ -1699,7 +1699,7 @@
       }
     },
     "libxcrypt": {
-      "evra": "4.4.36-8.fc41.ppc64le",
+      "evra": "4.4.36-10.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "libxcrypt"
       }
@@ -2155,7 +2155,7 @@
       }
     },
     "qemu-user-static-x86": {
-      "evra": "2:9.1.1-1.fc41.ppc64le",
+      "evra": "2:9.1.1-2.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "qemu"
       }
@@ -2215,7 +2215,7 @@
       }
     },
     "runc": {
-      "evra": "2:1.1.12-4.fc41.ppc64le",
+      "evra": "2:1.2.1-1.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "runc"
       }
@@ -2473,7 +2473,7 @@
       }
     },
     "toolbox": {
-      "evra": "0.1.0-1.fc41.ppc64le",
+      "evra": "0.1.1-1.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "toolbox"
       }
@@ -2606,16 +2606,16 @@
     }
   },
   "metadata": {
-    "generated": "2024-11-09T00:00:00Z",
+    "generated": "2024-11-12T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2024-11-08T18:18:42Z"
+        "generated": "2024-11-11T17:56:10Z"
       },
       "fedora-updates": {
-        "generated": "2024-11-09T01:37:06Z"
+        "generated": "2024-11-12T03:16:28Z"
       }
     }
   }
