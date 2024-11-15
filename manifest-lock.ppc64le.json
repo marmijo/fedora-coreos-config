@@ -73,7 +73,7 @@
       }
     },
     "amd-gpu-firmware": {
-      "evra": "20241017-2.fc41.noarch",
+      "evra": "20241110-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -337,13 +337,13 @@
       }
     },
     "coreos-installer": {
-      "evra": "0.22.1-3.fc41.ppc64le",
+      "evra": "0.23.0-1.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "rust-coreos-installer"
       }
     },
     "coreos-installer-bootinfra": {
-      "evra": "0.22.1-3.fc41.ppc64le",
+      "evra": "0.23.0-1.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "rust-coreos-installer"
       }
@@ -763,25 +763,25 @@
       }
     },
     "glibc": {
-      "evra": "2.40-9.fc41.ppc64le",
+      "evra": "2.40-11.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "glibc"
       }
     },
     "glibc-common": {
-      "evra": "2.40-9.fc41.ppc64le",
+      "evra": "2.40-11.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "glibc"
       }
     },
     "glibc-gconv-extra": {
-      "evra": "2.40-9.fc41.ppc64le",
+      "evra": "2.40-11.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "glibc"
       }
     },
     "glibc-minimal-langpack": {
-      "evra": "2.40-9.fc41.ppc64le",
+      "evra": "2.40-11.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "glibc"
       }
@@ -877,7 +877,7 @@
       }
     },
     "intel-gpu-firmware": {
-      "evra": "20241017-2.fc41.noarch",
+      "evra": "20241110-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -1729,13 +1729,13 @@
       }
     },
     "linux-firmware": {
-      "evra": "20241017-2.fc41.noarch",
+      "evra": "20241110-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
     },
     "linux-firmware-whence": {
-      "evra": "20241017-2.fc41.noarch",
+      "evra": "20241110-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -1915,7 +1915,7 @@
       }
     },
     "nvidia-gpu-firmware": {
-      "evra": "20241017-2.fc41.noarch",
+      "evra": "20241110-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -2149,7 +2149,7 @@
       }
     },
     "qed-firmware": {
-      "evra": "20241017-2.fc41.noarch",
+      "evra": "20241110-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -2606,16 +2606,16 @@
     }
   },
   "metadata": {
-    "generated": "2024-11-13T00:00:00Z",
+    "generated": "2024-11-14T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2024-11-12T21:15:10Z"
+        "generated": "2024-11-14T21:24:21Z"
       },
       "fedora-updates": {
-        "generated": "2024-11-13T03:08:00Z"
+        "generated": "2024-11-14T02:56:42Z"
       }
     }
   }
