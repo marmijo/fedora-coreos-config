@@ -181,7 +181,7 @@
       }
     },
     "btrfs-progs": {
-      "evra": "6.11-1.fc41.x86_64",
+      "evra": "6.12-1.fc41.x86_64",
       "metadata": {
         "sourcerpm": "btrfs-progs"
       }
@@ -235,19 +235,19 @@
       }
     },
     "clevis": {
-      "evra": "21-5.fc41.x86_64",
+      "evra": "21-7.fc41.x86_64",
       "metadata": {
         "sourcerpm": "clevis"
       }
     },
     "clevis-dracut": {
-      "evra": "21-5.fc41.x86_64",
+      "evra": "21-7.fc41.x86_64",
       "metadata": {
         "sourcerpm": "clevis"
       }
     },
     "clevis-luks": {
-      "evra": "21-5.fc41.x86_64",
+      "evra": "21-7.fc41.x86_64",
       "metadata": {
         "sourcerpm": "clevis"
       }
@@ -259,7 +259,7 @@
       }
     },
     "clevis-systemd": {
-      "evra": "21-5.fc41.x86_64",
+      "evra": "21-7.fc41.x86_64",
       "metadata": {
         "sourcerpm": "clevis"
       }
@@ -619,19 +619,19 @@
       }
     },
     "fedora-release-common": {
-      "evra": "41-28.noarch",
+      "evra": "41-29.noarch",
       "metadata": {
         "sourcerpm": "fedora-release"
       }
     },
     "fedora-release-coreos": {
-      "evra": "41-28.noarch",
+      "evra": "41-29.noarch",
       "metadata": {
         "sourcerpm": "fedora-release"
       }
     },
     "fedora-release-identity-coreos": {
-      "evra": "41-28.noarch",
+      "evra": "41-29.noarch",
       "metadata": {
         "sourcerpm": "fedora-release"
       }
@@ -2203,13 +2203,13 @@
       }
     },
     "rpm-ostree": {
-      "evra": "2024.8-1.fc41.x86_64",
+      "evra": "2024.9-1.fc41.x86_64",
       "metadata": {
         "sourcerpm": "rpm-ostree"
       }
     },
     "rpm-ostree-libs": {
-      "evra": "2024.8-1.fc41.x86_64",
+      "evra": "2024.9-1.fc41.x86_64",
       "metadata": {
         "sourcerpm": "rpm-ostree"
       }
@@ -2636,16 +2636,16 @@
     }
   },
   "metadata": {
-    "generated": "2024-12-03T00:00:00Z",
+    "generated": "2024-12-05T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:59Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2024-12-03T19:17:26Z"
+        "generated": "2024-12-05T02:29:42Z"
       },
       "fedora-updates": {
-        "generated": "2024-12-03T02:48:04Z"
+        "generated": "2024-12-05T02:15:30Z"
       }
     }
   }
