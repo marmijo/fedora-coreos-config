@@ -31,7 +31,7 @@
       }
     },
     "WALinuxAgent-udev": {
-      "evra": "2.11.1.12-1.fc41.noarch",
+      "evra": "2.12.0.4-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "WALinuxAgent"
       }
@@ -583,19 +583,19 @@
       }
     },
     "elfutils-default-yama-scope": {
-      "evra": "0.192-6.fc41.noarch",
+      "evra": "0.192-7.fc41.noarch",
       "metadata": {
         "sourcerpm": "elfutils"
       }
     },
     "elfutils-libelf": {
-      "evra": "0.192-6.fc41.x86_64",
+      "evra": "0.192-7.fc41.x86_64",
       "metadata": {
         "sourcerpm": "elfutils"
       }
     },
     "elfutils-libs": {
-      "evra": "0.192-6.fc41.x86_64",
+      "evra": "0.192-7.fc41.x86_64",
       "metadata": {
         "sourcerpm": "elfutils"
       }
@@ -895,7 +895,7 @@
       }
     },
     "hwdata": {
-      "evra": "0.389-1.fc41.noarch",
+      "evra": "0.390-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "hwdata"
       }
@@ -1087,7 +1087,7 @@
       }
     },
     "kexec-tools": {
-      "evra": "2.0.29-1.fc41.x86_64",
+      "evra": "2.0.30-1.fc41.x86_64",
       "metadata": {
         "sourcerpm": "kexec-tools"
       }
@@ -2636,16 +2636,16 @@
     }
   },
   "metadata": {
-    "generated": "2024-12-05T00:00:00Z",
+    "generated": "2024-12-06T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:59Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2024-12-05T02:29:42Z"
+        "generated": "2024-12-06T01:33:55Z"
       },
       "fedora-updates": {
-        "generated": "2024-12-05T02:15:30Z"
+        "generated": "2024-12-06T02:59:48Z"
       }
     }
   }
