@@ -73,13 +73,13 @@
       }
     },
     "amd-gpu-firmware": {
-      "evra": "20241110-1.fc41.noarch",
+      "evra": "20241210-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
     },
     "amd-ucode-firmware": {
-      "evra": "20241110-1.fc41.noarch",
+      "evra": "20241210-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -505,7 +505,7 @@
       }
     },
     "dnf5": {
-      "evra": "5.2.8.1-1.fc41.x86_64",
+      "evra": "5.2.8.1-2.fc41.x86_64",
       "metadata": {
         "sourcerpm": "dnf5"
       }
@@ -913,7 +913,7 @@
       }
     },
     "intel-gpu-firmware": {
-      "evra": "20241110-1.fc41.noarch",
+      "evra": "20241210-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -1237,13 +1237,13 @@
       }
     },
     "libdnf5": {
-      "evra": "5.2.8.1-1.fc41.x86_64",
+      "evra": "5.2.8.1-2.fc41.x86_64",
       "metadata": {
         "sourcerpm": "dnf5"
       }
     },
     "libdnf5-cli": {
-      "evra": "5.2.8.1-1.fc41.x86_64",
+      "evra": "5.2.8.1-2.fc41.x86_64",
       "metadata": {
         "sourcerpm": "dnf5"
       }
@@ -1747,13 +1747,13 @@
       }
     },
     "linux-firmware": {
-      "evra": "20241110-1.fc41.noarch",
+      "evra": "20241210-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
     },
     "linux-firmware-whence": {
-      "evra": "20241110-1.fc41.noarch",
+      "evra": "20241210-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -1957,7 +1957,7 @@
       }
     },
     "nvidia-gpu-firmware": {
-      "evra": "20241110-1.fc41.noarch",
+      "evra": "20241210-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -2173,7 +2173,7 @@
       }
     },
     "qed-firmware": {
-      "evra": "20241110-1.fc41.noarch",
+      "evra": "20241210-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "linux-firmware"
       }
@@ -2636,16 +2636,16 @@
     }
   },
   "metadata": {
-    "generated": "2024-12-11T00:00:00Z",
+    "generated": "2024-12-13T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:59Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2024-12-11T18:41:24Z"
+        "generated": "2024-12-12T20:16:08Z"
       },
       "fedora-updates": {
-        "generated": "2024-12-11T02:41:11Z"
+        "generated": "2024-12-13T01:29:53Z"
       }
     }
   }
