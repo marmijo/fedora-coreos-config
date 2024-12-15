@@ -1021,7 +1021,7 @@
       }
     },
     "kdump-utils": {
-      "evra": "1.0.48-1.fc41.ppc64le",
+      "evra": "1.0.51-1.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "kdump-utils"
       }
@@ -2023,13 +2023,13 @@
       }
     },
     "passt": {
-      "evra": "0^20241127.gc0fbc7e-1.fc41.ppc64le",
+      "evra": "0^20241211.g09478d5-1.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "passt"
       }
     },
     "passt-selinux": {
-      "evra": "0^20241127.gc0fbc7e-1.fc41.noarch",
+      "evra": "0^20241211.g09478d5-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "passt"
       }
@@ -2521,13 +2521,13 @@
       }
     },
     "vim-data": {
-      "evra": "2:9.1.906-1.fc41.noarch",
+      "evra": "2:9.1.919-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "vim"
       }
     },
     "vim-minimal": {
-      "evra": "2:9.1.906-1.fc41.ppc64le",
+      "evra": "2:9.1.919-1.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "vim"
       }
@@ -2606,16 +2606,16 @@
     }
   },
   "metadata": {
-    "generated": "2024-12-13T00:00:00Z",
+    "generated": "2024-12-15T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2024-12-12T20:13:33Z"
+        "generated": "2024-12-15T00:41:38Z"
       },
       "fedora-updates": {
-        "generated": "2024-12-13T01:29:22Z"
+        "generated": "2024-12-15T02:22:35Z"
       }
     }
   }
