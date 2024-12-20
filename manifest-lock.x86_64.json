@@ -1063,25 +1063,25 @@
       }
     },
     "kernel": {
-      "evra": "6.12.4-200.fc41.x86_64",
+      "evra": "6.12.5-200.fc41.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-core": {
-      "evra": "6.12.4-200.fc41.x86_64",
+      "evra": "6.12.5-200.fc41.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules": {
-      "evra": "6.12.4-200.fc41.x86_64",
+      "evra": "6.12.5-200.fc41.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules-core": {
-      "evra": "6.12.4-200.fc41.x86_64",
+      "evra": "6.12.5-200.fc41.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
@@ -2233,7 +2233,7 @@
       }
     },
     "runc": {
-      "evra": "2:1.2.2-1.fc41.x86_64",
+      "evra": "2:1.2.3-1.fc41.x86_64",
       "metadata": {
         "sourcerpm": "runc"
       }
@@ -2269,13 +2269,13 @@
       }
     },
     "selinux-policy": {
-      "evra": "41.26-1.fc41.noarch",
+      "evra": "41.27-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
     },
     "selinux-policy-targeted": {
-      "evra": "41.26-1.fc41.noarch",
+      "evra": "41.27-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
@@ -2636,16 +2636,16 @@
     }
   },
   "metadata": {
-    "generated": "2024-12-19T00:00:00Z",
+    "generated": "2024-12-20T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:59Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2024-12-19T20:05:12Z"
+        "generated": "2024-12-19T23:30:15Z"
       },
       "fedora-updates": {
-        "generated": "2024-12-19T03:55:59Z"
+        "generated": "2024-12-20T13:31:04Z"
       }
     }
   }
