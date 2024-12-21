@@ -379,7 +379,7 @@
       }
     },
     "crun": {
-      "evra": "1.19-1.fc41.s390x",
+      "evra": "1.19.1-1.fc41.s390x",
       "metadata": {
         "sourcerpm": "crun"
       }
@@ -739,25 +739,25 @@
       }
     },
     "glibc": {
-      "evra": "2.40-14.fc41.s390x",
+      "evra": "2.40-17.fc41.s390x",
       "metadata": {
         "sourcerpm": "glibc"
       }
     },
     "glibc-common": {
-      "evra": "2.40-14.fc41.s390x",
+      "evra": "2.40-17.fc41.s390x",
       "metadata": {
         "sourcerpm": "glibc"
       }
     },
     "glibc-gconv-extra": {
-      "evra": "2.40-14.fc41.s390x",
+      "evra": "2.40-17.fc41.s390x",
       "metadata": {
         "sourcerpm": "glibc"
       }
     },
     "glibc-minimal-langpack": {
-      "evra": "2.40-14.fc41.s390x",
+      "evra": "2.40-17.fc41.s390x",
       "metadata": {
         "sourcerpm": "glibc"
       }
@@ -2498,16 +2498,16 @@
     }
   },
   "metadata": {
-    "generated": "2024-12-20T00:00:00Z",
+    "generated": "2024-12-21T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:55Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2024-12-19T23:27:16Z"
+        "generated": "2024-12-21T00:03:08Z"
       },
       "fedora-updates": {
-        "generated": "2024-12-20T13:31:00Z"
+        "generated": "2024-12-21T03:31:48Z"
       }
     }
   }

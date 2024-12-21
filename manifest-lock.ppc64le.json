@@ -385,7 +385,7 @@
       }
     },
     "crun": {
-      "evra": "1.19-1.fc41.ppc64le",
+      "evra": "1.19.1-1.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "crun"
       }
@@ -763,25 +763,25 @@
       }
     },
     "glibc": {
-      "evra": "2.40-14.fc41.ppc64le",
+      "evra": "2.40-17.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "glibc"
       }
     },
     "glibc-common": {
-      "evra": "2.40-14.fc41.ppc64le",
+      "evra": "2.40-17.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "glibc"
       }
     },
     "glibc-gconv-extra": {
-      "evra": "2.40-14.fc41.ppc64le",
+      "evra": "2.40-17.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "glibc"
       }
     },
     "glibc-minimal-langpack": {
-      "evra": "2.40-14.fc41.ppc64le",
+      "evra": "2.40-17.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "glibc"
       }
@@ -2606,16 +2606,16 @@
     }
   },
   "metadata": {
-    "generated": "2024-12-20T00:00:00Z",
+    "generated": "2024-12-21T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2024-12-19T23:28:04Z"
+        "generated": "2024-12-21T00:03:44Z"
       },
       "fedora-updates": {
-        "generated": "2024-12-20T13:30:57Z"
+        "generated": "2024-12-21T03:31:44Z"
       }
     }
   }
