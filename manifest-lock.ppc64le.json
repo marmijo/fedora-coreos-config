@@ -67,7 +67,7 @@
       }
     },
     "alternatives": {
-      "evra": "1.30-1.fc41.ppc64le",
+      "evra": "1.31-1.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "chkconfig"
       }
@@ -2419,37 +2419,37 @@
       }
     },
     "systemd": {
-      "evra": "256.9-2.fc41.ppc64le",
+      "evra": "256.10-1.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-container": {
-      "evra": "256.9-2.fc41.ppc64le",
+      "evra": "256.10-1.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-libs": {
-      "evra": "256.9-2.fc41.ppc64le",
+      "evra": "256.10-1.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-pam": {
-      "evra": "256.9-2.fc41.ppc64le",
+      "evra": "256.10-1.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-resolved": {
-      "evra": "256.9-2.fc41.ppc64le",
+      "evra": "256.10-1.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-udev": {
-      "evra": "256.9-2.fc41.ppc64le",
+      "evra": "256.10-1.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "systemd"
       }
@@ -2606,16 +2606,16 @@
     }
   },
   "metadata": {
-    "generated": "2024-12-21T00:00:00Z",
+    "generated": "2024-12-22T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2024-12-21T00:03:44Z"
+        "generated": "2024-12-22T00:07:30Z"
       },
       "fedora-updates": {
-        "generated": "2024-12-21T03:31:44Z"
+        "generated": "2024-12-22T01:57:00Z"
       }
     }
   }
