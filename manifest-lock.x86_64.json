@@ -679,7 +679,7 @@
       }
     },
     "flatpak-session-helper": {
-      "evra": "1.15.12-1.fc41.x86_64",
+      "evra": "1.15.91-1.fc41.x86_64",
       "metadata": {
         "sourcerpm": "flatpak"
       }
@@ -1717,7 +1717,7 @@
       }
     },
     "libxcrypt": {
-      "evra": "4.4.36-11.fc41.x86_64",
+      "evra": "4.4.36-12.fc41.x86_64",
       "metadata": {
         "sourcerpm": "libxcrypt"
       }
@@ -2636,16 +2636,16 @@
     }
   },
   "metadata": {
-    "generated": "2024-12-22T00:00:00Z",
+    "generated": "2024-12-23T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:59Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2024-12-22T00:09:04Z"
+        "generated": "2024-12-23T00:05:54Z"
       },
       "fedora-updates": {
-        "generated": "2024-12-22T01:57:06Z"
+        "generated": "2024-12-23T01:24:32Z"
       }
     }
   }
