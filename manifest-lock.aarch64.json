@@ -1711,7 +1711,7 @@
       }
     },
     "libxml2": {
-      "evra": "2.12.8-2.fc41.aarch64",
+      "evra": "2.12.9-1.fc41.aarch64",
       "metadata": {
         "sourcerpm": "libxml2"
       }
@@ -2624,16 +2624,16 @@
     }
   },
   "metadata": {
-    "generated": "2024-12-25T00:00:00Z",
+    "generated": "2024-12-27T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2024-12-24T00:11:33Z"
+        "generated": "2024-12-26T00:11:21Z"
       },
       "fedora-updates": {
-        "generated": "2024-12-25T01:46:19Z"
+        "generated": "2024-12-27T01:16:41Z"
       }
     }
   }

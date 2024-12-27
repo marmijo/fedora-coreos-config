@@ -1621,7 +1621,7 @@
       }
     },
     "libxml2": {
-      "evra": "2.12.8-2.fc41.s390x",
+      "evra": "2.12.9-1.fc41.s390x",
       "metadata": {
         "sourcerpm": "libxml2"
       }
@@ -2498,16 +2498,16 @@
     }
   },
   "metadata": {
-    "generated": "2024-12-25T00:00:00Z",
+    "generated": "2024-12-27T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:55Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2024-12-24T00:08:01Z"
+        "generated": "2024-12-26T00:07:20Z"
       },
       "fedora-updates": {
-        "generated": "2024-12-25T01:46:26Z"
+        "generated": "2024-12-27T01:16:48Z"
       }
     }
   }
