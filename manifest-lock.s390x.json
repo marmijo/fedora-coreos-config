@@ -2155,7 +2155,7 @@
       }
     },
     "setup": {
-      "evra": "2.15.0-5.fc41.noarch",
+      "evra": "2.15.0-8.fc41.noarch",
       "metadata": {
         "sourcerpm": "setup"
       }
@@ -2498,16 +2498,16 @@
     }
   },
   "metadata": {
-    "generated": "2024-12-28T00:00:00Z",
+    "generated": "2024-12-29T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:55Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2024-12-28T00:05:51Z"
+        "generated": "2024-12-29T00:22:51Z"
       },
       "fedora-updates": {
-        "generated": "2024-12-28T02:53:34Z"
+        "generated": "2024-12-29T04:10:52Z"
       }
     }
   }
