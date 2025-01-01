@@ -1717,7 +1717,7 @@
       }
     },
     "libxcrypt": {
-      "evra": "4.4.36-12.fc41.x86_64",
+      "evra": "4.4.37-1.fc41.x86_64",
       "metadata": {
         "sourcerpm": "libxcrypt"
       }
@@ -2636,16 +2636,16 @@
     }
   },
   "metadata": {
-    "generated": "2024-12-31T00:00:00Z",
+    "generated": "2025-01-01T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:59Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2024-12-31T00:09:48Z"
+        "generated": "2025-01-01T00:06:56Z"
       },
       "fedora-updates": {
-        "generated": "2024-12-31T03:06:46Z"
+        "generated": "2025-01-01T01:19:10Z"
       }
     }
   }
