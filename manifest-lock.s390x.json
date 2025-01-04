@@ -1867,13 +1867,13 @@
       }
     },
     "openssl": {
-      "evra": "1:3.2.2-9.fc41.s390x",
+      "evra": "1:3.2.2-10.fc41.s390x",
       "metadata": {
         "sourcerpm": "openssl"
       }
     },
     "openssl-libs": {
-      "evra": "1:3.2.2-9.fc41.s390x",
+      "evra": "1:3.2.2-10.fc41.s390x",
       "metadata": {
         "sourcerpm": "openssl"
       }
@@ -2498,16 +2498,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-01-03T00:00:00Z",
+    "generated": "2025-01-04T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:55Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-01-01T23:52:00Z"
+        "generated": "2025-01-04T00:07:33Z"
       },
       "fedora-updates": {
-        "generated": "2025-01-03T04:05:54Z"
+        "generated": "2025-01-04T04:38:15Z"
       }
     }
   }
