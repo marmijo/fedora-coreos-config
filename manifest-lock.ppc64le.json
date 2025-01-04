@@ -1027,25 +1027,25 @@
       }
     },
     "kernel": {
-      "evra": "6.12.6-200.fc41.ppc64le",
+      "evra": "6.12.7-200.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-core": {
-      "evra": "6.12.6-200.fc41.ppc64le",
+      "evra": "6.12.7-200.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules": {
-      "evra": "6.12.6-200.fc41.ppc64le",
+      "evra": "6.12.7-200.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules-core": {
-      "evra": "6.12.6-200.fc41.ppc64le",
+      "evra": "6.12.7-200.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "kernel"
       }
@@ -1927,7 +1927,7 @@
       }
     },
     "oniguruma": {
-      "evra": "6.9.9-4.fc41.ppc64le",
+      "evra": "6.9.10-1.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "oniguruma"
       }
@@ -2606,16 +2606,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-01-01T00:00:00Z",
+    "generated": "2025-01-03T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-01-01T00:04:44Z"
+        "generated": "2025-01-01T23:52:24Z"
       },
       "fedora-updates": {
-        "generated": "2025-01-01T01:19:03Z"
+        "generated": "2025-01-03T04:05:51Z"
       }
     }
   }
