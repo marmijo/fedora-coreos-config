@@ -271,13 +271,13 @@
       }
     },
     "composefs": {
-      "evra": "1.0.6-1.fc41.x86_64",
+      "evra": "1.0.8-1.fc41.x86_64",
       "metadata": {
         "sourcerpm": "composefs"
       }
     },
     "composefs-libs": {
-      "evra": "1.0.6-1.fc41.x86_64",
+      "evra": "1.0.8-1.fc41.x86_64",
       "metadata": {
         "sourcerpm": "composefs"
       }
@@ -1255,7 +1255,7 @@
       }
     },
     "libedit": {
-      "evra": "3.1-53.20240808cvs.fc41.x86_64",
+      "evra": "3.1-54.20250104cvs.fc41.x86_64",
       "metadata": {
         "sourcerpm": "libedit"
       }
@@ -2636,16 +2636,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-01-05T00:00:00Z",
+    "generated": "2025-01-06T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:59Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-01-05T08:08:22Z"
+        "generated": "2025-01-06T08:10:49Z"
       },
       "fedora-updates": {
-        "generated": "2025-01-05T01:52:10Z"
+        "generated": "2025-01-06T02:12:04Z"
       }
     }
   }
