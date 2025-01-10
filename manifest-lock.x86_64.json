@@ -91,19 +91,19 @@
       }
     },
     "audit": {
-      "evra": "4.0.2-1.fc41.x86_64",
+      "evra": "4.0.3-1.fc41.x86_64",
       "metadata": {
         "sourcerpm": "audit"
       }
     },
     "audit-libs": {
-      "evra": "4.0.2-1.fc41.x86_64",
+      "evra": "4.0.3-1.fc41.x86_64",
       "metadata": {
         "sourcerpm": "audit"
       }
     },
     "audit-rules": {
-      "evra": "4.0.2-1.fc41.x86_64",
+      "evra": "4.0.3-1.fc41.x86_64",
       "metadata": {
         "sourcerpm": "audit"
       }
@@ -1447,7 +1447,7 @@
       }
     },
     "libnfsidmap": {
-      "evra": "1:2.8.1-3.rc2.fc41.x86_64",
+      "evra": "1:2.8.1-4.rc2.fc41.x86_64",
       "metadata": {
         "sourcerpm": "nfs-utils"
       }
@@ -1921,7 +1921,7 @@
       }
     },
     "nfs-utils-coreos": {
-      "evra": "1:2.8.1-3.rc2.fc41.x86_64",
+      "evra": "1:2.8.1-4.rc2.fc41.x86_64",
       "metadata": {
         "sourcerpm": "nfs-utils"
       }
@@ -1999,13 +1999,13 @@
       }
     },
     "openssl": {
-      "evra": "1:3.2.2-10.fc41.x86_64",
+      "evra": "1:3.2.2-11.fc41.x86_64",
       "metadata": {
         "sourcerpm": "openssl"
       }
     },
     "openssl-libs": {
-      "evra": "1:3.2.2-10.fc41.x86_64",
+      "evra": "1:3.2.2-11.fc41.x86_64",
       "metadata": {
         "sourcerpm": "openssl"
       }
@@ -2636,16 +2636,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-01-09T00:00:00Z",
+    "generated": "2025-01-10T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:59Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-01-08T23:36:57Z"
+        "generated": "2025-01-10T00:11:18Z"
       },
       "fedora-updates": {
-        "generated": "2025-01-09T01:58:40Z"
+        "generated": "2025-01-10T01:25:24Z"
       }
     }
   }
