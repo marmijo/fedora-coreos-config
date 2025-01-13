@@ -499,7 +499,7 @@
       }
     },
     "dnf5": {
-      "evra": "5.2.8.1-2.fc41.aarch64",
+      "evra": "5.2.8.1-3.fc41.aarch64",
       "metadata": {
         "sourcerpm": "dnf5"
       }
@@ -1225,13 +1225,13 @@
       }
     },
     "libdnf5": {
-      "evra": "5.2.8.1-2.fc41.aarch64",
+      "evra": "5.2.8.1-3.fc41.aarch64",
       "metadata": {
         "sourcerpm": "dnf5"
       }
     },
     "libdnf5-cli": {
-      "evra": "5.2.8.1-2.fc41.aarch64",
+      "evra": "5.2.8.1-3.fc41.aarch64",
       "metadata": {
         "sourcerpm": "dnf5"
       }
@@ -1369,7 +1369,7 @@
       }
     },
     "libldb": {
-      "evra": "2:4.21.2-1.fc41.aarch64",
+      "evra": "2:4.21.3-3.fc41.aarch64",
       "metadata": {
         "sourcerpm": "samba"
       }
@@ -1381,7 +1381,7 @@
       }
     },
     "libmaxminddb": {
-      "evra": "1.11.0-1.fc41.aarch64",
+      "evra": "1.12.0-1.fc41.aarch64",
       "metadata": {
         "sourcerpm": "libmaxminddb"
       }
@@ -1567,7 +1567,7 @@
       }
     },
     "libsmbclient": {
-      "evra": "2:4.21.2-1.fc41.aarch64",
+      "evra": "2:4.21.3-3.fc41.aarch64",
       "metadata": {
         "sourcerpm": "samba"
       }
@@ -1699,7 +1699,7 @@
       }
     },
     "libwbclient": {
-      "evra": "2:4.21.2-1.fc41.aarch64",
+      "evra": "2:4.21.3-3.fc41.aarch64",
       "metadata": {
         "sourcerpm": "samba"
       }
@@ -2107,7 +2107,7 @@
       }
     },
     "policycoreutils": {
-      "evra": "3.7-5.fc41.aarch64",
+      "evra": "3.7-6.fc41.aarch64",
       "metadata": {
         "sourcerpm": "policycoreutils"
       }
@@ -2227,19 +2227,19 @@
       }
     },
     "samba-client-libs": {
-      "evra": "2:4.21.2-1.fc41.aarch64",
+      "evra": "2:4.21.3-3.fc41.aarch64",
       "metadata": {
         "sourcerpm": "samba"
       }
     },
     "samba-common": {
-      "evra": "2:4.21.2-1.fc41.noarch",
+      "evra": "2:4.21.3-3.fc41.noarch",
       "metadata": {
         "sourcerpm": "samba"
       }
     },
     "samba-common-libs": {
-      "evra": "2:4.21.2-1.fc41.aarch64",
+      "evra": "2:4.21.3-3.fc41.aarch64",
       "metadata": {
         "sourcerpm": "samba"
       }
@@ -2257,13 +2257,13 @@
       }
     },
     "selinux-policy": {
-      "evra": "41.27-1.fc41.noarch",
+      "evra": "41.28-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
     },
     "selinux-policy-targeted": {
-      "evra": "41.27-1.fc41.noarch",
+      "evra": "41.28-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
@@ -2431,37 +2431,37 @@
       }
     },
     "systemd": {
-      "evra": "256.10-1.fc41.aarch64",
+      "evra": "256.11-1.fc41.aarch64",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-container": {
-      "evra": "256.10-1.fc41.aarch64",
+      "evra": "256.11-1.fc41.aarch64",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-libs": {
-      "evra": "256.10-1.fc41.aarch64",
+      "evra": "256.11-1.fc41.aarch64",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-pam": {
-      "evra": "256.10-1.fc41.aarch64",
+      "evra": "256.11-1.fc41.aarch64",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-resolved": {
-      "evra": "256.10-1.fc41.aarch64",
+      "evra": "256.11-1.fc41.aarch64",
       "metadata": {
         "sourcerpm": "systemd"
       }
     },
     "systemd-udev": {
-      "evra": "256.10-1.fc41.aarch64",
+      "evra": "256.11-1.fc41.aarch64",
       "metadata": {
         "sourcerpm": "systemd"
       }
@@ -2533,13 +2533,13 @@
       }
     },
     "vim-data": {
-      "evra": "2:9.1.984-1.fc41.noarch",
+      "evra": "2:9.1.1000-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "vim"
       }
     },
     "vim-minimal": {
-      "evra": "2:9.1.984-1.fc41.aarch64",
+      "evra": "2:9.1.1000-1.fc41.aarch64",
       "metadata": {
         "sourcerpm": "vim"
       }
@@ -2624,16 +2624,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-01-10T00:00:00Z",
+    "generated": "2025-01-12T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-01-10T00:11:35Z"
+        "generated": "2025-01-11T00:03:23Z"
       },
       "fedora-updates": {
-        "generated": "2025-01-10T01:25:13Z"
+        "generated": "2025-01-12T01:33:17Z"
       }
     }
   }
