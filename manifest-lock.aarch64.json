@@ -1705,7 +1705,7 @@
       }
     },
     "libxcrypt": {
-      "evra": "4.4.37-4.fc41.aarch64",
+      "evra": "4.4.38-1.fc41.aarch64",
       "metadata": {
         "sourcerpm": "libxcrypt"
       }
@@ -2221,7 +2221,7 @@
       }
     },
     "runc": {
-      "evra": "2:1.2.3-1.fc41.aarch64",
+      "evra": "2:1.2.4-1.fc41.aarch64",
       "metadata": {
         "sourcerpm": "runc"
       }
@@ -2605,7 +2605,7 @@
       }
     },
     "zlib-ng-compat": {
-      "evra": "2.1.7-3.fc41.aarch64",
+      "evra": "2.2.3-1.fc41.aarch64",
       "metadata": {
         "sourcerpm": "zlib-ng"
       }
@@ -2624,16 +2624,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-01-15T00:00:00Z",
+    "generated": "2025-01-16T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-01-14T19:26:22Z"
+        "generated": "2025-01-15T23:27:23Z"
       },
       "fedora-updates": {
-        "generated": "2025-01-15T01:03:11Z"
+        "generated": "2025-01-16T01:51:28Z"
       }
     }
   }

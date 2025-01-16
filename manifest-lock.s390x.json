@@ -1615,7 +1615,7 @@
       }
     },
     "libxcrypt": {
-      "evra": "4.4.37-4.fc41.s390x",
+      "evra": "4.4.38-1.fc41.s390x",
       "metadata": {
         "sourcerpm": "libxcrypt"
       }
@@ -2101,7 +2101,7 @@
       }
     },
     "runc": {
-      "evra": "2:1.2.3-1.fc41.s390x",
+      "evra": "2:1.2.4-1.fc41.s390x",
       "metadata": {
         "sourcerpm": "runc"
       }
@@ -2479,7 +2479,7 @@
       }
     },
     "zlib-ng-compat": {
-      "evra": "2.1.7-3.fc41.s390x",
+      "evra": "2.2.3-1.fc41.s390x",
       "metadata": {
         "sourcerpm": "zlib-ng"
       }
@@ -2498,16 +2498,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-01-15T00:00:00Z",
+    "generated": "2025-01-16T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:55Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-01-14T19:22:29Z"
+        "generated": "2025-01-15T23:23:41Z"
       },
       "fedora-updates": {
-        "generated": "2025-01-15T01:03:19Z"
+        "generated": "2025-01-16T01:51:36Z"
       }
     }
   }
