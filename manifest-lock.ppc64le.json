@@ -751,7 +751,7 @@
       }
     },
     "git-core": {
-      "evra": "2.48.0-1.fc41.ppc64le",
+      "evra": "2.48.1-1.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "git"
       }
@@ -1141,7 +1141,7 @@
       }
     },
     "libblkid": {
-      "evra": "2.40.2-4.fc41.ppc64le",
+      "evra": "2.40.4-1.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "util-linux"
       }
@@ -1237,7 +1237,7 @@
       }
     },
     "libfdisk": {
-      "evra": "2.40.2-4.fc41.ppc64le",
+      "evra": "2.40.4-1.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "util-linux"
       }
@@ -1387,7 +1387,7 @@
       }
     },
     "libmount": {
-      "evra": "2.40.2-4.fc41.ppc64le",
+      "evra": "2.40.4-1.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "util-linux"
       }
@@ -1555,7 +1555,7 @@
       }
     },
     "libsmartcols": {
-      "evra": "2.40.2-4.fc41.ppc64le",
+      "evra": "2.40.4-1.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "util-linux"
       }
@@ -1663,7 +1663,7 @@
       }
     },
     "libusb1": {
-      "evra": "1.0.27-4.fc41.ppc64le",
+      "evra": "1.0.27-6.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "libusb1"
       }
@@ -1675,7 +1675,7 @@
       }
     },
     "libuuid": {
-      "evra": "2.40.2-4.fc41.ppc64le",
+      "evra": "2.40.4-1.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "util-linux"
       }
@@ -1699,7 +1699,7 @@
       }
     },
     "libxcrypt": {
-      "evra": "4.4.38-1.fc41.ppc64le",
+      "evra": "4.4.38-2.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "libxcrypt"
       }
@@ -2509,13 +2509,13 @@
       }
     },
     "util-linux": {
-      "evra": "2.40.2-4.fc41.ppc64le",
+      "evra": "2.40.4-1.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "util-linux"
       }
     },
     "util-linux-core": {
-      "evra": "2.40.2-4.fc41.ppc64le",
+      "evra": "2.40.4-1.fc41.ppc64le",
       "metadata": {
         "sourcerpm": "util-linux"
       }
@@ -2606,16 +2606,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-01-16T00:00:00Z",
+    "generated": "2025-01-17T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:58Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-01-15T23:24:24Z"
+        "generated": "2025-01-16T23:32:30Z"
       },
       "fedora-updates": {
-        "generated": "2025-01-16T01:51:32Z"
+        "generated": "2025-01-17T01:08:10Z"
       }
     }
   }
