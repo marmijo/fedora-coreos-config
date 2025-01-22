@@ -1057,7 +1057,7 @@
       }
     },
     "kdump-utils": {
-      "evra": "1.0.51-1.fc41.x86_64",
+      "evra": "1.0.52-1.fc41.x86_64",
       "metadata": {
         "sourcerpm": "kdump-utils"
       }
@@ -2227,7 +2227,7 @@
       }
     },
     "rsync": {
-      "evra": "3.3.0-3.fc41.x86_64",
+      "evra": "3.4.1-1.fc41.x86_64",
       "metadata": {
         "sourcerpm": "rsync"
       }
@@ -2636,16 +2636,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-01-20T00:00:00Z",
+    "generated": "2025-01-21T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:59Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-01-18T00:05:02Z"
+        "generated": "2025-01-21T14:08:43Z"
       },
       "fedora-updates": {
-        "generated": "2025-01-20T03:50:05Z"
+        "generated": "2025-01-21T03:06:10Z"
       }
     }
   }
