@@ -1,31 +1,31 @@
 {
   "packages": {
     "NetworkManager": {
-      "evra": "1:1.50.0-1.fc41.s390x",
+      "evra": "1:1.50.2-1.fc41.s390x",
       "metadata": {
         "sourcerpm": "NetworkManager"
       }
     },
     "NetworkManager-cloud-setup": {
-      "evra": "1:1.50.0-1.fc41.s390x",
+      "evra": "1:1.50.2-1.fc41.s390x",
       "metadata": {
         "sourcerpm": "NetworkManager"
       }
     },
     "NetworkManager-libnm": {
-      "evra": "1:1.50.0-1.fc41.s390x",
+      "evra": "1:1.50.2-1.fc41.s390x",
       "metadata": {
         "sourcerpm": "NetworkManager"
       }
     },
     "NetworkManager-team": {
-      "evra": "1:1.50.0-1.fc41.s390x",
+      "evra": "1:1.50.2-1.fc41.s390x",
       "metadata": {
         "sourcerpm": "NetworkManager"
       }
     },
     "NetworkManager-tui": {
-      "evra": "1:1.50.0-1.fc41.s390x",
+      "evra": "1:1.50.2-1.fc41.s390x",
       "metadata": {
         "sourcerpm": "NetworkManager"
       }
@@ -313,7 +313,7 @@
       }
     },
     "containerd": {
-      "evra": "1.7.24-3.fc41.s390x",
+      "evra": "1.7.25-1.fc41.s390x",
       "metadata": {
         "sourcerpm": "containerd"
       }
@@ -1597,7 +1597,7 @@
       }
     },
     "libuv": {
-      "evra": "1:1.49.2-1.fc41.s390x",
+      "evra": "1:1.50.0-1.fc41.s390x",
       "metadata": {
         "sourcerpm": "libuv"
       }
@@ -1849,19 +1849,19 @@
       }
     },
     "openssh": {
-      "evra": "9.8p1-3.fc41.2.s390x",
+      "evra": "9.9p1-1.fc41.s390x",
       "metadata": {
         "sourcerpm": "openssh"
       }
     },
     "openssh-clients": {
-      "evra": "9.8p1-3.fc41.2.s390x",
+      "evra": "9.9p1-1.fc41.s390x",
       "metadata": {
         "sourcerpm": "openssh"
       }
     },
     "openssh-server": {
-      "evra": "9.8p1-3.fc41.2.s390x",
+      "evra": "9.9p1-1.fc41.s390x",
       "metadata": {
         "sourcerpm": "openssh"
       }
@@ -2029,7 +2029,7 @@
       }
     },
     "publicsuffix-list-dafsa": {
-      "evra": "20240107-4.fc41.noarch",
+      "evra": "20250116-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "publicsuffix-list"
       }
@@ -2498,16 +2498,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-01-21T00:00:00Z",
+    "generated": "2025-01-23T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:55Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-01-21T14:04:52Z"
+        "generated": "2025-01-22T02:34:37Z"
       },
       "fedora-updates": {
-        "generated": "2025-01-21T03:06:05Z"
+        "generated": "2025-01-23T01:39:04Z"
       }
     }
   }
