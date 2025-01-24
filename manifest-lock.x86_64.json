@@ -163,7 +163,7 @@
       }
     },
     "bootc": {
-      "evra": "1.1.2-2.fc41.x86_64",
+      "evra": "1.1.4-6.fc41.x86_64",
       "metadata": {
         "sourcerpm": "bootc"
       }
@@ -1063,25 +1063,25 @@
       }
     },
     "kernel": {
-      "evra": "6.12.9-200.fc41.x86_64",
+      "evra": "6.12.10-200.fc41.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-core": {
-      "evra": "6.12.9-200.fc41.x86_64",
+      "evra": "6.12.10-200.fc41.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules": {
-      "evra": "6.12.9-200.fc41.x86_64",
+      "evra": "6.12.10-200.fc41.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules-core": {
-      "evra": "6.12.9-200.fc41.x86_64",
+      "evra": "6.12.10-200.fc41.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
@@ -2059,13 +2059,13 @@
       }
     },
     "passt": {
-      "evra": "0^20241211.g09478d5-1.fc41.x86_64",
+      "evra": "0^20250121.g4f2c8e7-2.fc41.x86_64",
       "metadata": {
         "sourcerpm": "passt"
       }
     },
     "passt-selinux": {
-      "evra": "0^20241211.g09478d5-1.fc41.noarch",
+      "evra": "0^20250121.g4f2c8e7-2.fc41.noarch",
       "metadata": {
         "sourcerpm": "passt"
       }
@@ -2636,16 +2636,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-01-23T00:00:00Z",
+    "generated": "2025-01-24T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:59Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-01-22T02:37:33Z"
+        "generated": "2025-01-23T23:36:33Z"
       },
       "fedora-updates": {
-        "generated": "2025-01-23T01:39:09Z"
+        "generated": "2025-01-24T01:20:52Z"
       }
     }
   }
