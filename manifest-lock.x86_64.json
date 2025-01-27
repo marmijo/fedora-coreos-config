@@ -787,25 +787,25 @@
       }
     },
     "glibc": {
-      "evra": "2.40-17.fc41.x86_64",
+      "evra": "2.40-21.fc41.x86_64",
       "metadata": {
         "sourcerpm": "glibc"
       }
     },
     "glibc-common": {
-      "evra": "2.40-17.fc41.x86_64",
+      "evra": "2.40-21.fc41.x86_64",
       "metadata": {
         "sourcerpm": "glibc"
       }
     },
     "glibc-gconv-extra": {
-      "evra": "2.40-17.fc41.x86_64",
+      "evra": "2.40-21.fc41.x86_64",
       "metadata": {
         "sourcerpm": "glibc"
       }
     },
     "glibc-minimal-langpack": {
-      "evra": "2.40-17.fc41.x86_64",
+      "evra": "2.40-21.fc41.x86_64",
       "metadata": {
         "sourcerpm": "glibc"
       }
@@ -2636,16 +2636,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-01-25T00:00:00Z",
+    "generated": "2025-01-27T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:59Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-01-24T23:24:47Z"
+        "generated": "2025-01-26T00:07:18Z"
       },
       "fedora-updates": {
-        "generated": "2025-01-25T01:36:05Z"
+        "generated": "2025-01-27T01:34:56Z"
       }
     }
   }
