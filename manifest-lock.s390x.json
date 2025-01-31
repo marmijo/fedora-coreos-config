@@ -697,7 +697,7 @@
       }
     },
     "fwupd": {
-      "evra": "1.9.27-1.fc41.s390x",
+      "evra": "1.9.28-1.fc41.s390x",
       "metadata": {
         "sourcerpm": "fwupd"
       }
@@ -967,25 +967,25 @@
       }
     },
     "kernel": {
-      "evra": "6.12.10-200.fc41.s390x",
+      "evra": "6.12.11-200.fc41.s390x",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-core": {
-      "evra": "6.12.10-200.fc41.s390x",
+      "evra": "6.12.11-200.fc41.s390x",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules": {
-      "evra": "6.12.10-200.fc41.s390x",
+      "evra": "6.12.11-200.fc41.s390x",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules-core": {
-      "evra": "6.12.10-200.fc41.s390x",
+      "evra": "6.12.11-200.fc41.s390x",
       "metadata": {
         "sourcerpm": "kernel"
       }
@@ -1987,7 +1987,7 @@
       }
     },
     "policycoreutils": {
-      "evra": "3.7-6.fc41.s390x",
+      "evra": "3.7-7.fc41.s390x",
       "metadata": {
         "sourcerpm": "policycoreutils"
       }
@@ -2498,16 +2498,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-01-30T00:00:00Z",
+    "generated": "2025-01-31T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:55Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-01-30T07:22:27Z"
+        "generated": "2025-01-31T09:39:59Z"
       },
       "fedora-updates": {
-        "generated": "2025-01-29T04:57:37Z"
+        "generated": "2025-01-31T02:59:30Z"
       }
     }
   }

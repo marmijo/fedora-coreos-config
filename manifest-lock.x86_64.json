@@ -727,7 +727,7 @@
       }
     },
     "fwupd": {
-      "evra": "1.9.27-1.fc41.x86_64",
+      "evra": "1.9.28-1.fc41.x86_64",
       "metadata": {
         "sourcerpm": "fwupd"
       }
@@ -1063,25 +1063,25 @@
       }
     },
     "kernel": {
-      "evra": "6.12.10-200.fc41.x86_64",
+      "evra": "6.12.11-200.fc41.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-core": {
-      "evra": "6.12.10-200.fc41.x86_64",
+      "evra": "6.12.11-200.fc41.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules": {
-      "evra": "6.12.10-200.fc41.x86_64",
+      "evra": "6.12.11-200.fc41.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
     },
     "kernel-modules-core": {
-      "evra": "6.12.10-200.fc41.x86_64",
+      "evra": "6.12.11-200.fc41.x86_64",
       "metadata": {
         "sourcerpm": "kernel"
       }
@@ -2125,7 +2125,7 @@
       }
     },
     "policycoreutils": {
-      "evra": "3.7-6.fc41.x86_64",
+      "evra": "3.7-7.fc41.x86_64",
       "metadata": {
         "sourcerpm": "policycoreutils"
       }
@@ -2636,16 +2636,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-01-30T00:00:00Z",
+    "generated": "2025-01-31T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:59Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-01-30T07:25:48Z"
+        "generated": "2025-01-31T09:43:25Z"
       },
       "fedora-updates": {
-        "generated": "2025-01-29T04:57:42Z"
+        "generated": "2025-01-31T02:59:35Z"
       }
     }
   }
