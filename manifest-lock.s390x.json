@@ -1807,7 +1807,7 @@
       }
     },
     "nmstate": {
-      "evra": "2.2.39-1.fc41.s390x",
+      "evra": "2.2.40-1.fc41.s390x",
       "metadata": {
         "sourcerpm": "nmstate"
       }
@@ -2143,13 +2143,13 @@
       }
     },
     "selinux-policy": {
-      "evra": "41.28-1.fc41.noarch",
+      "evra": "41.31-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
     },
     "selinux-policy-targeted": {
-      "evra": "41.28-1.fc41.noarch",
+      "evra": "41.31-1.fc41.noarch",
       "metadata": {
         "sourcerpm": "selinux-policy"
       }
@@ -2498,16 +2498,16 @@
     }
   },
   "metadata": {
-    "generated": "2025-02-02T00:00:00Z",
+    "generated": "2025-02-04T00:00:00Z",
     "rpmmd_repos": {
       "fedora": {
         "generated": "2024-10-24T13:55:55Z"
       },
       "fedora-coreos-pool": {
-        "generated": "2025-02-02T00:28:26Z"
+        "generated": "2025-02-04T09:00:19Z"
       },
       "fedora-updates": {
-        "generated": "2025-02-02T01:36:10Z"
+        "generated": "2025-02-04T01:10:15Z"
       }
     }
   }
