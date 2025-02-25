@@ -14,6 +14,13 @@ include:
   - bootupd.yaml
   - shared-el9.yaml
   - shared-el10.yaml
+
+conditional-include:
+  # Start including the azure-vm-utils package in F42, the package doesn't exist for F41
+  # so the needed udev rules are included in overlay/25azure-udev-rules
+  - if: releasever >= 42
+    include: azure-vm-utils.yaml
+
 ostree-layers:
   - overlay/05core
   - overlay/08nouveau

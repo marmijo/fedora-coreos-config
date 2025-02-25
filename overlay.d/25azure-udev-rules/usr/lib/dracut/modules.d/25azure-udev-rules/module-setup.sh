@@ -14,4 +14,5 @@ depends() {
 # called by dracut
 install() {
     inst_rules 68-azure-sriov-nm-unmanaged.rules
+    inst_rules 80-azure-disk.rules
 }
